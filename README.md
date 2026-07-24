@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NidhitaKochhar/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NidhitaKochhar/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/NidhitaKochhar/DSA-LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1046-last-stone-weight](https://github.com/NidhitaKochhar/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NidhitaKochhar/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NidhitaKochhar/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/NidhitaKochhar/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
